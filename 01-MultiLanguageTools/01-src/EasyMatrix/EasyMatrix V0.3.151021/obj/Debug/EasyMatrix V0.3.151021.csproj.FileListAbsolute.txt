@@ -1,0 +1,26 @@
+D:\前500G\Coding\c#Code\EasyMatrix V0.3.151021\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix V0.3.151021.csprojResolveAssemblyReference.cache
+D:\前500G\Coding\c#Code\EasyMatrix V0.3.151021\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix V0.3.151021.csproj.GenerateResource.Cache
+D:\前500G\Coding\c#Code\EasyMatrix V0.3.151021\EasyMatrix V0.3.151021\bin\Debug\EasyMatrix V0.3.151021.exe.config
+D:\前500G\Coding\c#Code\EasyMatrix V0.3.151021\EasyMatrix V0.3.151021\bin\Debug\EasyMatrix V0.3.151021.exe
+D:\前500G\Coding\c#Code\EasyMatrix V0.3.151021\EasyMatrix V0.3.151021\bin\Debug\EasyMatrix V0.3.151021.pdb
+D:\前500G\Coding\c#Code\EasyMatrix V0.3.151021\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix_V0._3._151021._1.Properties.Resources.resources
+D:\前500G\Coding\c#Code\EasyMatrix V0.3.151021\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix V0.3.151021.exe
+D:\前500G\Coding\c#Code\EasyMatrix V0.3.151021\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix V0.3.151021.pdb
+D:\前500G\Coding\c#Code\EasyMatrix V0.3.151021\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix_V0._3._151021._1.FormEasyMatrix.resources
+D:\#hedy\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\bin\Debug\EasyMatrix V0.3.151021.exe.config
+D:\#hedy\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\bin\Debug\EasyMatrix V0.3.151021.exe
+D:\#hedy\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\bin\Debug\EasyMatrix V0.3.151021.pdb
+D:\#hedy\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix V0.3.151021.csprojResolveAssemblyReference.cache
+D:\#hedy\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix_V0._3._151021._1.FormEasyMatrix.resources
+D:\#hedy\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix_V0._3._151021._1.Properties.Resources.resources
+D:\#hedy\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix V0.3.151021.csproj.GenerateResource.Cache
+D:\#hedy\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix V0.3.151021.exe
+D:\#hedy\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix V0.3.151021.pdb
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\bin\Debug\EasyMatrix V0.3.151021.exe.config
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix V0.3.151021.exe
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix V0.3.151021.pdb
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\bin\Debug\EasyMatrix V0.3.151021.exe
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\bin\Debug\EasyMatrix V0.3.151021.pdb
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix_V0._3._151021._1.FormEasyMatrix.resources
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix_V0._3._151021._1.Properties.Resources.resources
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Debug\EasyMatrix V0.3.151021.csproj.GenerateResource.Cache

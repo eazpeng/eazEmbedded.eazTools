@@ -1,0 +1,9 @@
+D:\#hedy\#svn\06-SupportSoftware\12-binaryStitcher\hedyBinStitcher\hedyBinStitcher\bin\Debug\hedyBinStitcher.exe.config
+D:\#hedy\#svn\06-SupportSoftware\12-binaryStitcher\hedyBinStitcher\hedyBinStitcher\bin\Debug\hedyBinStitcher.exe
+D:\#hedy\#svn\06-SupportSoftware\12-binaryStitcher\hedyBinStitcher\hedyBinStitcher\bin\Debug\hedyBinStitcher.pdb
+D:\#hedy\#svn\06-SupportSoftware\12-binaryStitcher\hedyBinStitcher\hedyBinStitcher\obj\Debug\hedyBinStitcher.csprojResolveAssemblyReference.cache
+D:\#hedy\#svn\06-SupportSoftware\12-binaryStitcher\hedyBinStitcher\hedyBinStitcher\obj\Debug\hedyBinStitcher.hedyBinStitcher.resources
+D:\#hedy\#svn\06-SupportSoftware\12-binaryStitcher\hedyBinStitcher\hedyBinStitcher\obj\Debug\hedyBinStitcher.Properties.Resources.resources
+D:\#hedy\#svn\06-SupportSoftware\12-binaryStitcher\hedyBinStitcher\hedyBinStitcher\obj\Debug\hedyBinStitcher.csproj.GenerateResource.Cache
+D:\#hedy\#svn\06-SupportSoftware\12-binaryStitcher\hedyBinStitcher\hedyBinStitcher\obj\Debug\hedyBinStitcher.exe
+D:\#hedy\#svn\06-SupportSoftware\12-binaryStitcher\hedyBinStitcher\hedyBinStitcher\obj\Debug\hedyBinStitcher.pdb

@@ -1,0 +1,8 @@
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\bin\Release\EasyMatrix V0.3.151218.exe.config
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Release\EasyMatrix V0.3.151218.exe
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Release\EasyMatrix V0.3.151218.pdb
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\bin\Release\EasyMatrix V0.3.151218.exe
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\bin\Release\EasyMatrix V0.3.151218.pdb
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Release\EasyMatrix_V0._3._151021._1.FormEasyMatrix.resources
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Release\EasyMatrix_V0._3._151218._1.Properties.Resources.resources
+D:\WorkShop\HedyMed\#svn\06-SupportSoftware\10-多语言工具\01-src\EasyMatrix\EasyMatrix V0.3.151021\obj\Release\EasyMatrix V0.3.151218.csproj.GenerateResource.Cache
